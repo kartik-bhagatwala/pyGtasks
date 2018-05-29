@@ -26,5 +26,5 @@ First, create a google API key by following these instructions:
 
 To install dependencies via pip:
 
-`pip install oauth2client httplib2`
+`pip install oauth2client httplib2 google-api-python-client`
 
